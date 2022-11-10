@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Gallamoza_HW_01_01 {
+public class Matrix {
   public static void main(String[] args) { 
     int option = -1;
     int command = 0;
